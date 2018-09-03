@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="movie_list_item_height">300dp</dimen>
+    <dimen name="loading_indicator_width">42dp</dimen>
+    <dimen name="loading_idicator_height">42dp</dimen>
+    <dimen name="floating_action_button_elevation">8dp</dimen>
+</resources>
